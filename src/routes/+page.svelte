@@ -1,4 +1,10 @@
 <script lang="ts">
+	//TODO make content an array & put seperate items on new lines
+	//TODO make an enum for phase of timeline (resolution|at-large;chapter;NPC elections|proposal amendments|registration|convention)
+	//TODO use enum to style dot & background
+	//TODO move to own route(?)
+
+
 	import Message from '@feltjs/felt-ui/Message.svelte';
 
 	import {
