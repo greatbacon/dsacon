@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>felt-template</title>
+	<title>DSA CON 2023</title>
 </svelte:head>
 
 <slot />

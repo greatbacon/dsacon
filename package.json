@@ -56,5 +56,8 @@
         }
       }
     ]
+  },
+  "dependencies": {
+    "svelte-vertical-timeline": "^1.0.0"
   }
 }
